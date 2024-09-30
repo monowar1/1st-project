@@ -1,0 +1,15 @@
+body {
+    font-family: 'DM Sans', sans-serif;
+}
+h1 {
+    font-size: 50px;
+    color: aquamarine;
+}
+.name-ayan{
+    color: blueviolet;
+    font-size: 100px;
+}
+.name-maya{
+    color: chartreuse;
+    font-size: 120px;
+}
